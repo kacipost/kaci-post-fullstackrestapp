@@ -1,0 +1,5 @@
+package-lock.json
+node_modules
+backend/extensions/upload/config/settings.json
+backend/config/environments/development/database.json
+.vercel
